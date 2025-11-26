@@ -1,0 +1,2292 @@
+{
+    "power_plants": {
+        "item_NamePOWR_ACOM_S01_StarHeart": {
+          "ini_value": "item_NamePOWR_ACOM_S01_StarHeart",
+          "name": "StarHeart",
+          "size": "S1",
+          "grade": "B",
+          "type": "Competition Power Plant"
+        },
+        "item_NamePOWR_ACOM_S01_StarHeart_SCItem": {
+          "ini_value": "item_NamePOWR_ACOM_S01_StarHeart_SCItem",
+          "name": "StarHeart",
+          "size": "S1",
+          "grade": "B",
+          "type": "Competition Power Plant"
+        },
+        "item_NamePOWR_ACOM_S01_SunFlare_SCItem": {
+          "ini_value": "item_NamePOWR_ACOM_S01_SunFlare_SCItem",
+          "name": "SunFlare",
+          "size": "S1",
+          "grade": "C",
+          "type": "Competition Power Plant"
+        },
+        "item_NamePOWR_ACOM_S01_Sunflare": {
+          "ini_value": "item_NamePOWR_ACOM_S01_Sunflare",
+          "name": "Sunflare",
+          "size": "S1",
+          "grade": "C",
+          "type": "Competition Power Plant"
+        },
+        "item_NamePOWR_ACOM_S02_LuxCore_SCItem": {
+          "ini_value": "item_NamePOWR_ACOM_S02_LuxCore_SCItem",
+          "name": "LuxCore",
+          "size": "S2",
+          "grade": "A",
+          "type": "Competition Power Plant"
+        },
+        "item_NamePOWR_ACOM_S02_StarBurn_SCItem": {
+          "ini_value": "item_NamePOWR_ACOM_S02_StarBurn_SCItem",
+          "name": "StarBurn",
+          "size": "S2",
+          "grade": "B",
+          "type": "Competition Power Plant"
+        },
+        "item_NamePOWR_AEGS_S01_Charger": {
+          "ini_value": "item_NamePOWR_AEGS_S01_Charger",
+          "name": "Charger",
+          "size": "S1",
+          "grade": "D",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AEGS_S01_Charger_SCItem": {
+          "ini_value": "item_NamePOWR_AEGS_S01_Charger_SCItem",
+          "name": "Charger",
+          "size": "S1",
+          "grade": "D",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AEGS_S01_FierellCascade_SCItem": {
+          "ini_value": "item_NamePOWR_AEGS_S01_FierellCascade_SCItem",
+          "name": "Fierell Cascade",
+          "size": "S1",
+          "grade": "B",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AEGS_S01_Regulus": {
+          "ini_value": "item_NamePOWR_AEGS_S01_Regulus",
+          "name": "Regulus",
+          "size": "S1",
+          "grade": "C",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AEGS_S01_Regulus_SCItem": {
+          "ini_value": "item_NamePOWR_AEGS_S01_Regulus_SCItem",
+          "name": "Regulus",
+          "size": "S1",
+          "grade": "C",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AEGS_S02_Maelstrom_SCItem": {
+          "ini_value": "item_NamePOWR_AEGS_S02_Maelstrom_SCItem",
+          "name": "Maelstrom",
+          "size": "S2",
+          "grade": "C",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AEGS_S02_QuadracellMT_SCItem": {
+          "ini_value": "item_NamePOWR_AEGS_S02_QuadracellMT_SCItem",
+          "name": "QuadraCell MT",
+          "size": "S2",
+          "grade": "A",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AEGS_S02_Vortex": {
+          "ini_value": "item_NamePOWR_AEGS_S02_Vortex",
+          "name": "Vortex",
+          "size": "S2",
+          "grade": "D",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AEGS_S03_Drassik_SCItem": {
+          "ini_value": "item_NamePOWR_AEGS_S03_Drassik_SCItem",
+          "name": "Drassik",
+          "size": "S3",
+          "grade": "D",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AEGS_S03_QuadracellMX_SCItem": {
+          "ini_value": "item_NamePOWR_AEGS_S03_QuadracellMX_SCItem",
+          "name": "QuadraCell MX",
+          "size": "S3",
+          "grade": "A",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AMRS_S01_HyperGen": {
+          "ini_value": "item_NamePOWR_AMRS_S01_HyperGen",
+          "name": "HyperGen",
+          "size": "S1",
+          "grade": "D",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AMRS_S01_HyperGen_SCItem": {
+          "ini_value": "item_NamePOWR_AMRS_S01_HyperGen_SCItem",
+          "name": "HyperGen",
+          "size": "S1",
+          "grade": "D",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AMRS_S01_JS300_SCItem": {
+          "ini_value": "item_NamePOWR_AMRS_S01_JS300_SCItem",
+          "name": "JS-300",
+          "size": "S1",
+          "grade": "A",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AMRS_S01_OverDrive": {
+          "ini_value": "item_NamePOWR_AMRS_S01_OverDrive",
+          "name": "OverDrive",
+          "size": "S1",
+          "grade": "C",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AMRS_S01_OverDrive_SCItem": {
+          "ini_value": "item_NamePOWR_AMRS_S01_OverDrive_SCItem",
+          "name": "OverDrive",
+          "size": "S1",
+          "grade": "C",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AMRS_S02_ExoGen": {
+          "ini_value": "item_NamePOWR_AMRS_S02_ExoGen",
+          "name": "ExoGen",
+          "size": "S2",
+          "grade": "D",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AMRS_S02_JS400_SCItem": {
+          "ini_value": "item_NamePOWR_AMRS_S02_JS400_SCItem",
+          "name": "JS-400",
+          "size": "S2",
+          "grade": "A",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AMRS_S02_UltraFlux_SCItem": {
+          "ini_value": "item_NamePOWR_AMRS_S02_UltraFlux_SCItem",
+          "name": "UltraFlux",
+          "size": "S2",
+          "grade": "B",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AMRS_S03_JS500_SCItem": {
+          "ini_value": "item_NamePOWR_AMRS_S03_JS500_SCItem",
+          "name": "JS-500",
+          "size": "S3",
+          "grade": "A",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_AMRS_S03_SuperDrive_SCItem": {
+          "ini_value": "item_NamePOWR_AMRS_S03_SuperDrive_SCItem",
+          "name": "SuperDrive",
+          "size": "S3",
+          "grade": "C",
+          "type": "Military Power Plant"
+        },
+        "item_NamePOWR_JUST_S00_Jennet_SCItem": {
+          "ini_value": "item_NamePOWR_JUST_S00_Jennet_SCItem",
+          "name": "Jennet",
+          "size": "S0",
+          "grade": "D",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_JUST_S00_SteadFast": {
+          "ini_value": "item_NamePOWR_JUST_S00_SteadFast",
+          "name": "Steadfast",
+          "size": "S0",
+          "grade": "C",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_JUST_S00_SteadFast_SCItem": {
+          "ini_value": "item_NamePOWR_JUST_S00_SteadFast_SCItem",
+          "name": "Steadfast",
+          "size": "S0",
+          "grade": "C",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_JUST_S01_Endurance": {
+          "ini_value": "item_NamePOWR_JUST_S01_Endurance",
+          "name": "Endurance",
+          "size": "S1",
+          "grade": "B",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_JUST_S01_Endurance_SCItem": {
+          "ini_value": "item_NamePOWR_JUST_S01_Endurance_SCItem",
+          "name": "Endurance",
+          "size": "S1",
+          "grade": "B",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_JUST_S01_Fortitude_SCItem": {
+          "ini_value": "item_NamePOWR_JUST_S01_Fortitude_SCItem",
+          "name": "Fortitude",
+          "size": "S1",
+          "grade": "C",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_JUST_S01_Roughneck_SCItem": {
+          "ini_value": "item_NamePOWR_JUST_S01_Roughneck_SCItem",
+          "name": "Roughneck",
+          "size": "S1",
+          "grade": "D",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_JUST_S02_Genoa_SCItem": {
+          "ini_value": "item_NamePOWR_JUST_S02_Genoa_SCItem",
+          "name": "Genoa",
+          "size": "S2",
+          "grade": "A",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_JUST_S02_Trommel_SCItem": {
+          "ini_value": "item_NamePOWR_JUST_S02_Trommel_SCItem",
+          "name": "Trommel",
+          "size": "S2",
+          "grade": "D",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_JUST_S03_Endurance": {
+          "ini_value": "item_NamePOWR_JUST_S03_Endurance",
+          "name": "Endurance",
+          "size": "S1",
+          "grade": "B",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_JUST_S03_Ginzel_SCItem": {
+          "ini_value": "item_NamePOWR_JUST_S03_Ginzel_SCItem",
+          "name": "Ginzel",
+          "size": "S3",
+          "grade": "C",
+          "type": "Industrial Power Plant"
+        },
+        "item_NamePOWR_LPLT_S00_DuraJet_SCItem": {
+          "ini_value": "item_NamePOWR_LPLT_S00_DuraJet_SCItem",
+          "name": "DuraJet",
+          "size": "S0",
+          "grade": "D",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_LPLT_S00_Radix": {
+          "ini_value": "item_NamePOWR_LPLT_S00_Radix",
+          "name": "Radix",
+          "size": "S0",
+          "grade": "C",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_LPLT_S00_Radix_SCItem": {
+          "ini_value": "item_NamePOWR_LPLT_S00_Radix_SCItem",
+          "name": "Radix",
+          "size": "S0",
+          "grade": "C",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_LPLT_S01_IonBurst": {
+          "ini_value": "item_NamePOWR_LPLT_S01_IonBurst",
+          "name": "IonBurst",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_LPLT_S01_PowerBolt_SCItem": {
+          "ini_value": "item_NamePOWR_LPLT_S01_PowerBolt_SCItem",
+          "name": "PowerBolt",
+          "size": "S1",
+          "grade": "C",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_LPLT_S01_ZapJet_SCItem": {
+          "ini_value": "item_NamePOWR_LPLT_S01_ZapJet_SCItem",
+          "name": "ZapJet",
+          "size": "S1",
+          "grade": "D",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_LPLT_S02_FullForce_SCItem": {
+          "ini_value": "item_NamePOWR_LPLT_S02_FullForce_SCItem",
+          "name": "FullForce",
+          "size": "S2",
+          "grade": "C",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_LPLT_S02_IonSurge_SCItem": {
+          "ini_value": "item_NamePOWR_LPLT_S02_IonSurge_SCItem",
+          "name": "IonSurge",
+          "size": "S2",
+          "grade": "B",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_LPLT_S03_FullForcePro_SCItem": {
+          "ini_value": "item_NamePOWR_LPLT_S03_FullForcePro_SCItem",
+          "name": "FullForce Pro",
+          "size": "S3",
+          "grade": "C",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_LPLT_S03_SparkJetPro_SCItem": {
+          "ini_value": "item_NamePOWR_LPLT_S03_SparkJetPro_SCItem",
+          "name": "SparkJet Pro",
+          "size": "S3",
+          "grade": "D",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_ORIG_S04_890J_SCItem": {
+          "ini_value": "item_NamePOWR_ORIG_S04_890J_SCItem",
+          "name": "Stellate",
+          "size": "S4",
+          "grade": "A",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_SASU_S01_LightBlossom": {
+          "ini_value": "item_NamePOWR_SASU_S01_LightBlossom",
+          "name": "LightBlossom",
+          "size": "S1",
+          "grade": "C",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_SASU_S01_LightBlossom_SCItem": {
+          "ini_value": "item_NamePOWR_SASU_S01_LightBlossom_SCItem",
+          "name": "LightBlossom",
+          "size": "S1",
+          "grade": "C",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_SASU_S01_WhiteRose_SCItem": {
+          "ini_value": "item_NamePOWR_SASU_S01_WhiteRose_SCItem",
+          "name": "WhiteRose",
+          "size": "S1",
+          "grade": "A",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_SASU_S02_DayBreak_SCItem": {
+          "ini_value": "item_NamePOWR_SASU_S02_DayBreak_SCItem",
+          "name": "DayBreak",
+          "size": "S2",
+          "grade": "C",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_SASU_S02_Lotus_SCItem": {
+          "ini_value": "item_NamePOWR_SASU_S02_Lotus_SCItem",
+          "name": "Lotus",
+          "size": "S2",
+          "grade": "A",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_SASU_S03_TigerLilly_SCItem": {
+          "ini_value": "item_NamePOWR_SASU_S03_TigerLilly_SCItem",
+          "name": "TigerLilly",
+          "size": "S3",
+          "grade": "A",
+          "type": "Civilian Power Plant"
+        },
+        "item_NamePOWR_TYDT_S01_DeltaMax_SCItem": {
+          "ini_value": "item_NamePOWR_TYDT_S01_DeltaMax_SCItem",
+          "name": "DeltaMax",
+          "size": "S1",
+          "grade": "B",
+          "type": "Stealth Power Plant"
+        },
+        "item_NamePOWR_TYDT_S01_SonicLite": {
+          "ini_value": "item_NamePOWR_TYDT_S01_SonicLite",
+          "name": "SonicLite",
+          "size": "S1",
+          "grade": "C",
+          "type": "Stealth Power Plant"
+        },
+        "item_NamePOWR_TYDT_S01_SonicLite_SCItem": {
+          "ini_value": "item_NamePOWR_TYDT_S01_SonicLite_SCItem",
+          "name": "SonicLite",
+          "size": "S1",
+          "grade": "C",
+          "type": "Stealth Power Plant"
+        },
+        "item_NamePOWR_TYDT_S02_Eclipse_SCItem": {
+          "ini_value": "item_NamePOWR_TYDT_S02_Eclipse_SCItem",
+          "name": "Eclipse",
+          "size": "S2",
+          "grade": "A",
+          "type": "Stealth Power Plant"
+        },
+        "item_NamePOWR_TYDT_S02_GammaMax_SCItem": {
+          "ini_value": "item_NamePOWR_TYDT_S02_GammaMax_SCItem",
+          "name": "GammaMax",
+          "size": "S2",
+          "grade": "B",
+          "type": "Stealth Power Plant"
+        },
+        "item_Name_POWR_ACOM_S01_LumaCore": {
+          "ini_value": "item_Name_POWR_ACOM_S01_LumaCore",
+          "name": "LumaCore",
+          "size": "S1",
+          "grade": "A",
+          "type": "Competition Power Plant"
+        },
+        "item_Name_POWR_ACOM_S02_SolarFlare": {
+          "ini_value": "item_Name_POWR_ACOM_S02_SolarFlare",
+          "name": "SolarFlare",
+          "size": "S2",
+          "grade": "C",
+          "type": "Competition Power Plant"
+        },
+        "item_Name_POWR_AEGS_S01_QuadraCell": {
+          "ini_value": "item_Name_POWR_AEGS_S01_QuadraCell",
+          "name": "QuadraCell",
+          "size": "S1",
+          "grade": "A",
+          "type": "Military Power Plant"
+        },
+        "item_Name_POWR_AEGS_S02_Bolide": {
+          "ini_value": "item_Name_POWR_AEGS_S02_Bolide",
+          "name": "Bolide",
+          "size": "S2",
+          "grade": "B",
+          "type": "Military Power Plant"
+        },
+        "item_Name_POWR_AEGS_S02_Vortex": {
+          "ini_value": "item_Name_POWR_AEGS_S02_Vortex",
+          "name": "Vortex",
+          "size": "S2",
+          "grade": "D",
+          "type": "Military Power Plant"
+        },
+        "item_Name_POWR_AEGS_S03_Centurion": {
+          "ini_value": "item_Name_POWR_AEGS_S03_Centurion",
+          "name": "Centurion",
+          "size": "S3",
+          "grade": "C",
+          "type": "Military Power Plant"
+        },
+        "item_Name_POWR_AEGS_S03_Fulgur": {
+          "ini_value": "item_Name_POWR_AEGS_S03_Fulgur",
+          "name": "Fulgur",
+          "size": "S3",
+          "grade": "B",
+          "type": "Military Power Plant"
+        },
+        "item_Name_POWR_AMRS_S01_DynaFlux": {
+          "ini_value": "item_Name_POWR_AMRS_S01_DynaFlux",
+          "name": "DynaFlux",
+          "size": "S1",
+          "grade": "B",
+          "type": "Military Power Plant"
+        },
+        "item_Name_POWR_AMRS_S02_ExoGen": {
+          "ini_value": "item_Name_POWR_AMRS_S02_ExoGen",
+          "name": "ExoGen",
+          "size": "S2",
+          "grade": "D",
+          "type": "Military Power Plant"
+        },
+        "item_Name_POWR_AMRS_S02_TurboDrive": {
+          "ini_value": "item_Name_POWR_AMRS_S02_TurboDrive",
+          "name": "TurboDrive",
+          "size": "S2",
+          "grade": "C",
+          "type": "Military Power Plant"
+        },
+        "item_Name_POWR_AMRS_S03_MegaFlux": {
+          "ini_value": "item_Name_POWR_AMRS_S03_MegaFlux",
+          "name": "MegaFlux",
+          "size": "S3",
+          "grade": "B",
+          "type": "Military Power Plant"
+        },
+        "item_Name_POWR_AMRS_S03_SmartGen": {
+          "ini_value": "item_Name_POWR_AMRS_S03_SmartGen",
+          "name": "SmartGen",
+          "size": "S3",
+          "grade": "D",
+          "type": "Military Power Plant"
+        },
+        "item_Name_POWR_JUST_S00_Defiant": {
+          "ini_value": "item_Name_POWR_JUST_S00_Defiant",
+          "name": "Defiant",
+          "size": "S0",
+          "grade": "B",
+          "type": "Industrial Power Plant"
+        },
+        "item_Name_POWR_JUST_S01_Breton": {
+          "ini_value": "item_Name_POWR_JUST_S01_Breton",
+          "name": "Breton",
+          "size": "S1",
+          "grade": "A",
+          "type": "Industrial Power Plant"
+        },
+        "item_Name_POWR_JUST_S02_Diligence": {
+          "ini_value": "item_Name_POWR_JUST_S02_Diligence",
+          "name": "Diligence",
+          "size": "S2",
+          "grade": "C",
+          "type": "Industrial Power Plant"
+        },
+        "item_Name_POWR_JUST_S02_Sedulity": {
+          "ini_value": "item_Name_POWR_JUST_S02_Sedulity",
+          "name": "Sedulity",
+          "size": "S2",
+          "grade": "B",
+          "type": "Industrial Power Plant"
+        },
+        "item_Name_POWR_JUST_S03_Durango": {
+          "ini_value": "item_Name_POWR_JUST_S03_Durango",
+          "name": "Durango",
+          "size": "S3",
+          "grade": "A",
+          "type": "Industrial Power Plant"
+        },
+        "item_Name_POWR_JUST_S03_Reliance": {
+          "ini_value": "item_Name_POWR_JUST_S03_Reliance",
+          "name": "Reliance",
+          "size": "S3",
+          "grade": "B",
+          "type": "Industrial Power Plant"
+        },
+        "item_Name_POWR_LPLT_S00_IonWave": {
+          "ini_value": "item_Name_POWR_LPLT_S00_IonWave",
+          "name": "IonWave",
+          "size": "S0",
+          "grade": "B",
+          "type": "Civilian Power Plant"
+        },
+        "item_Name_POWR_LPLT_S01_IonBurst": {
+          "ini_value": "item_Name_POWR_LPLT_S01_IonBurst",
+          "name": "IonBurst",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Power Plant"
+        },
+        "item_Name_POWR_LPLT_S02_FullForce": {
+          "ini_value": "item_Name_POWR_LPLT_S02_FullForce",
+          "name": "FullForce",
+          "size": "S2",
+          "grade": "C",
+          "type": "Civilian Power Plant"
+        },
+        "item_Name_POWR_LPLT_S02_SparkJet": {
+          "ini_value": "item_Name_POWR_LPLT_S02_SparkJet",
+          "name": "SparkJet",
+          "size": "S2",
+          "grade": "D",
+          "type": "Civilian Power Plant"
+        },
+        "item_Name_POWR_LPLT_S03_IonSurgePro": {
+          "ini_value": "item_Name_POWR_LPLT_S03_IonSurgePro",
+          "name": "IonSurge Pro",
+          "size": "S3",
+          "grade": "B",
+          "type": "Civilian Power Plant"
+        },
+        "item_Name_POWR_SASU_S01_MagnaBloom": {
+          "ini_value": "item_Name_POWR_SASU_S01_MagnaBloom",
+          "name": "MagnaBloom",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Power Plant"
+        },
+        "item_Name_POWR_SASU_S02_Radiance": {
+          "ini_value": "item_Name_POWR_SASU_S02_Radiance",
+          "name": "Radiance",
+          "size": "S2",
+          "grade": "B",
+          "type": "Civilian Power Plant"
+        },
+        "item_Name_POWR_SASU_S03_Celestial": {
+          "ini_value": "item_Name_POWR_SASU_S03_Celestial",
+          "name": "Celestial",
+          "size": "S3",
+          "grade": "B",
+          "type": "Civilian Power Plant"
+        },
+        "item_Name_POWR_SASU_S03_NewDawn": {
+          "ini_value": "item_Name_POWR_SASU_S03_NewDawn",
+          "name": "NewDawn",
+          "size": "S3",
+          "grade": "C",
+          "type": "Civilian Power Plant"
+        },
+        "item_Name_POWR_TYDT_S01_Slipstream": {
+          "ini_value": "item_Name_POWR_TYDT_S01_Slipstream",
+          "name": "Slipstream",
+          "size": "S1",
+          "grade": "A",
+          "type": "Stealth Power Plant"
+        },
+        "item_Name_POWR_TYDT_S02_Cirrus": {
+          "ini_value": "item_Name_POWR_TYDT_S02_Cirrus",
+          "name": "Cirrus",
+          "size": "S2",
+          "grade": "C",
+          "type": "Stealth Power Plant"
+        },
+        "item_Name_POWR_VNCL_S01_HellsHeart": {
+          "ini_value": "item_Name_POWR_VNCL_S01_HellsHeart",
+          "name": "Hell's Heart",
+          "size": "S1",
+          "grade": "",
+          "type": "Vanduul Power Plant"
+        }
+      },
+    "shields": {
+        "item_NameSHLD_AEGS_S04_Idris": {
+          "ini_value": "item_NameSHLD_AEGS_S04_Idris",
+          "name": "AEGS Idris Shield",
+          "size": "S4",
+          "grade": "A",
+          "type": "Shield"
+        },
+        "item_NameSHLD_AEGS_S04_Reclaimer_SCItem": {
+          "ini_value": "item_NameSHLD_AEGS_S04_Reclaimer_SCItem",
+          "name": "RS-Barrier",
+          "size": "S4",
+          "grade": "B",
+          "type": "Shield"
+        },
+        "item_NameSHLD_ASAS_S01_Cloak": {
+          "ini_value": "item_NameSHLD_ASAS_S01_Cloak",
+          "name": "Cloak",
+          "size": "S1",
+          "grade": "D",
+          "type": "Stealth Shield"
+        },
+        "item_NameSHLD_ASAS_S01_Mirage": {
+          "ini_value": "item_NameSHLD_ASAS_S01_Mirage",
+          "name": "Mirage",
+          "size": "S1",
+          "grade": "A",
+          "type": "Stealth Shield"
+        },
+        "item_NameSHLD_ASAS_S01_Obscura": {
+          "ini_value": "item_NameSHLD_ASAS_S01_Obscura",
+          "name": "Obscura",
+          "size": "S2",
+          "grade": "C",
+          "type": "Stealth Shield"
+        },
+        "item_NameSHLD_ASAS_S01_Shimmer": {
+          "ini_value": "item_NameSHLD_ASAS_S01_Shimmer",
+          "name": "Shimmer",
+          "size": "S1",
+          "grade": "C",
+          "type": "Stealth Shield"
+        },
+        "item_NameSHLD_ASAS_S01_Veil": {
+          "ini_value": "item_NameSHLD_ASAS_S01_Veil",
+          "name": "Veil",
+          "size": "S1",
+          "grade": "B",
+          "type": "Stealth Shield"
+        },
+        "item_NameSHLD_ASAS_S02_Shroud": {
+          "ini_value": "item_NameSHLD_ASAS_S02_Shroud",
+          "name": "Shroud",
+          "size": "S2",
+          "grade": "D",
+          "type": "Stealth Shield"
+        },
+        "item_NameSHLD_BANU_S01_Suldrath": {
+          "ini_value": "item_NameSHLD_BANU_S01_Suldrath",
+          "name": "Suldrath",
+          "size": "S1",
+          "grade": "C",
+          "type": "Military Shield"
+        },
+        "item_NameSHLD_BANU_S02_Sukoran": {
+          "ini_value": "item_NameSHLD_BANU_S02_Sukoran",
+          "name": "Sukoran",
+          "size": "S2",
+          "grade": "C",
+          "type": "Military Shield"
+        },
+        "item_NameSHLD_BASL_S00_Castra": {
+          "ini_value": "item_NameSHLD_BASL_S00_Castra",
+          "name": "Castra",
+          "size": "S0",
+          "grade": "C",
+          "type": "Industrial Shield"
+        },
+        "item_NameSHLD_BASL_S01_Bulwark": {
+          "ini_value": "item_NameSHLD_BASL_S01_Bulwark",
+          "name": "Bulwark",
+          "size": "S1",
+          "grade": "C",
+          "type": "Industrial Shield"
+        },
+        "item_NameSHLD_BASL_S01_Guardian": {
+          "ini_value": "item_NameSHLD_BASL_S01_Guardian",
+          "name": "Guardian",
+          "size": "S1",
+          "grade": "B",
+          "type": "Industrial Shield"
+        },
+        "item_NameSHLD_BASL_S01_Palisade": {
+          "ini_value": "item_NameSHLD_BASL_S01_Palisade",
+          "name": "Palisade",
+          "size": "S1",
+          "grade": "A",
+          "type": "Industrial Shield"
+        },
+        "item_NameSHLD_BASL_S01_Steward": {
+          "ini_value": "item_NameSHLD_BASL_S01_Steward",
+          "name": "Steward",
+          "size": "S1",
+          "grade": "D",
+          "type": "Industrial Shield"
+        },
+        "item_NameSHLD_BASL_S02_Aspis": {
+          "ini_value": "item_NameSHLD_BASL_S02_Aspis",
+          "name": "Aspis",
+          "size": "S2",
+          "grade": "C",
+          "type": "Industrial Shield"
+        },
+        "item_NameSHLD_BASL_S03_Stronghold": {
+          "ini_value": "item_NameSHLD_BASL_S03_Stronghold",
+          "name": "Stronghold",
+          "size": "S3",
+          "grade": "C",
+          "type": "Industrial Shield"
+        },
+        "item_NameSHLD_BEHR_S01_5SA": {
+          "ini_value": "item_NameSHLD_BEHR_S01_5SA",
+          "name": "5SA 'Rhada'",
+          "size": "S1",
+          "grade": "C",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_BEHR_S01_6SA": {
+          "ini_value": "item_NameSHLD_BEHR_S01_6SA",
+          "name": "6SA",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_BEHR_S01_7sa": {
+          "ini_value": "item_NameSHLD_BEHR_S01_7sa",
+          "name": "7SA",
+          "size": "S1",
+          "grade": "A",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_BEHR_S02_5MA": {
+          "ini_value": "item_NameSHLD_BEHR_S02_5MA",
+          "name": "5MA 'Chimalli'",
+          "size": "S2",
+          "grade": "C",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_BEHR_S03_5CA": {
+          "ini_value": "item_NameSHLD_BEHR_S03_5CA",
+          "name": "5CA 'Akura'",
+          "size": "S3",
+          "grade": "C",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_BEHR_SMAL_PL01": {
+          "ini_value": "item_NameSHLD_BEHR_SMAL_PL01",
+          "name": "BEHR Shield Small",
+          "size": "Small",
+          "grade": "",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_GODI_S01_AllStop": {
+          "ini_value": "item_NameSHLD_GODI_S01_AllStop",
+          "name": "AllStop",
+          "size": "S1",
+          "grade": "C",
+          "type": "Military Shield"
+        },
+        "item_NameSHLD_GODI_S01_AllStop_SCItem": {
+          "ini_value": "item_NameSHLD_GODI_S01_AllStop_SCItem",
+          "name": "AllStop",
+          "size": "S1",
+          "grade": "C",
+          "type": "Military Shield"
+        },
+        "item_NameSHLD_GODI_S01_FR66": {
+          "ini_value": "item_NameSHLD_GODI_S01_FR66",
+          "name": "FR-66",
+          "size": "S1",
+          "grade": "A",
+          "type": "Military Shield"
+        },
+        "item_NameSHLD_GODI_S01_ForceWall": {
+          "ini_value": "item_NameSHLD_GODI_S01_ForceWall",
+          "name": "ForceWall",
+          "size": "S1",
+          "grade": "B",
+          "type": "Military Shield"
+        },
+        "item_NameSHLD_GODI_S01_SecureHyde": {
+          "ini_value": "item_NameSHLD_GODI_S01_SecureHyde",
+          "name": "SecureHyde",
+          "size": "S1",
+          "grade": "D",
+          "type": "Military Shield"
+        },
+        "item_NameSHLD_GODI_S02_FullStop": {
+          "ini_value": "item_NameSHLD_GODI_S02_FullStop",
+          "name": "FullStop",
+          "size": "S2",
+          "grade": "C",
+          "type": "Military Shield"
+        },
+        "item_NameSHLD_GODI_S04_Idris": {
+          "ini_value": "item_NameSHLD_GODI_S04_Idris",
+          "name": "Holdstrong",
+          "size": "S4",
+          "grade": "A",
+          "type": "Industrial Shield"
+        },
+        "item_NameSHLD_ORIG_S04_890J_SCItem": {
+          "ini_value": "item_NameSHLD_ORIG_S04_890J_SCItem",
+          "name": "Glacis",
+          "size": "S4",
+          "grade": "A",
+          "type": "Industrial Shield"
+        },
+        "item_NameSHLD_S01_CIV_SECO_Ink": {
+          "ini_value": "item_NameSHLD_S01_CIV_SECO_Ink",
+          "name": "INK",
+          "size": "S1",
+          "grade": "D",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_S01_CMP_YORM_Targa": {
+          "ini_value": "item_NameSHLD_S01_CMP_YORM_Targa",
+          "name": "Targa",
+          "size": "S1",
+          "grade": "C",
+          "type": "Competition Shield"
+        },
+        "item_NameSHLD_SECO_MEDI_PL01": {
+          "ini_value": "item_NameSHLD_SECO_MEDI_PL01",
+          "name": "SECO Shield Medium",
+          "size": "Medium",
+          "grade": "",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_SECO_S00_PIN": {
+          "ini_value": "item_NameSHLD_SECO_S00_PIN",
+          "name": "PIN",
+          "size": "S0",
+          "grade": "C",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_SECO_S01_HEX": {
+          "ini_value": "item_NameSHLD_SECO_S01_HEX",
+          "name": "HEX",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_SECO_S01_INK": {
+          "ini_value": "item_NameSHLD_SECO_S01_INK",
+          "name": "INK",
+          "size": "S1",
+          "grade": "D",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_SECO_S01_WEB": {
+          "ini_value": "item_NameSHLD_SECO_S01_WEB",
+          "name": "WEB",
+          "size": "S1",
+          "grade": "C",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_SECO_S02_STOP": {
+          "ini_value": "item_NameSHLD_SECO_S02_STOP",
+          "name": "STOP",
+          "size": "S2",
+          "grade": "C",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_SECO_SMAL_PL01": {
+          "ini_value": "item_NameSHLD_SECO_SMAL_PL01",
+          "name": "SECO Shield Small",
+          "size": "Small",
+          "grade": "",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_SECO_SMAL_PL01_Pirate": {
+          "ini_value": "item_NameSHLD_SECO_SMAL_PL01_Pirate",
+          "name": "SECO Shield Small (Pirate)",
+          "size": "Small",
+          "grade": "",
+          "type": "Civilian Shield"
+        },
+        "item_NameSHLD_YORM_S01_Falco": {
+          "ini_value": "item_NameSHLD_YORM_S01_Falco",
+          "name": "Falco",
+          "size": "S1",
+          "grade": "D",
+          "type": "Competition Shield"
+        },
+        "item_NameSHLD_YORM_S01_Targa": {
+          "ini_value": "item_NameSHLD_YORM_S01_Targa",
+          "name": "Targa",
+          "size": "S1",
+          "grade": "C",
+          "type": "Competition Shield"
+        },
+        "item_Name_SHLD_ASAS_S01_Mirage": {
+          "ini_value": "item_Name_SHLD_ASAS_S01_Mirage",
+          "name": "Mirage",
+          "size": "S1",
+          "grade": "A",
+          "type": "Stealth Shield"
+        },
+        "item_Name_SHLD_ASAS_S01_Veil": {
+          "ini_value": "item_Name_SHLD_ASAS_S01_Veil",
+          "name": "Veil",
+          "size": "S1",
+          "grade": "B",
+          "type": "Stealth Shield"
+        },
+        "item_Name_SHLD_ASAS_S02_Obscura": {
+          "ini_value": "item_Name_SHLD_ASAS_S02_Obscura",
+          "name": "Obscura",
+          "size": "S2",
+          "grade": "C",
+          "type": "Stealth Shield"
+        },
+        "item_Name_SHLD_ASAS_S02_Sheut": {
+          "ini_value": "item_Name_SHLD_ASAS_S02_Sheut",
+          "name": "Sheut",
+          "size": "S2",
+          "grade": "B",
+          "type": "Stealth Shield"
+        },
+        "item_Name_SHLD_ASAS_S02_Umbra": {
+          "ini_value": "item_Name_SHLD_ASAS_S02_Umbra",
+          "name": "Umbra",
+          "size": "S2",
+          "grade": "A",
+          "type": "Stealth Shield"
+        },
+        "item_Name_SHLD_BASL_S00_Bastion": {
+          "ini_value": "item_Name_SHLD_BASL_S00_Bastion",
+          "name": "Bastion",
+          "size": "S0",
+          "grade": "D",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BASL_S00_Siege": {
+          "ini_value": "item_Name_SHLD_BASL_S00_Siege",
+          "name": "Siege",
+          "size": "S0",
+          "grade": "B",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BASL_S01_Guardian": {
+          "ini_value": "item_Name_SHLD_BASL_S01_Guardian",
+          "name": "Guardian",
+          "size": "S1",
+          "grade": "B",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BASL_S01_Palisade": {
+          "ini_value": "item_Name_SHLD_BASL_S01_Palisade",
+          "name": "Palisade",
+          "size": "S1",
+          "grade": "A",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BASL_S01_Steward": {
+          "ini_value": "item_Name_SHLD_BASL_S01_Steward",
+          "name": "Steward",
+          "size": "S1",
+          "grade": "D",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BASL_S02_Armada": {
+          "ini_value": "item_Name_SHLD_BASL_S02_Armada",
+          "name": "Armada",
+          "size": "S2",
+          "grade": "D",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BASL_S02_Citadel": {
+          "ini_value": "item_Name_SHLD_BASL_S02_Citadel",
+          "name": "Citadel",
+          "size": "S2",
+          "grade": "B",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BASL_S02_Rampart": {
+          "ini_value": "item_Name_SHLD_BASL_S02_Rampart",
+          "name": "Rampart",
+          "size": "S2",
+          "grade": "A",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BASL_S03_Barbican": {
+          "ini_value": "item_Name_SHLD_BASL_S03_Barbican",
+          "name": "Barbican",
+          "size": "S3",
+          "grade": "B",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BASL_S03_Parapet": {
+          "ini_value": "item_Name_SHLD_BASL_S03_Parapet",
+          "name": "Parapet",
+          "size": "S3",
+          "grade": "A",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BASL_S03_Ward": {
+          "ini_value": "item_Name_SHLD_BASL_S03_Ward",
+          "name": "Ward",
+          "size": "S3",
+          "grade": "D",
+          "type": "Industrial Shield"
+        },
+        "item_Name_SHLD_BEHR_S01_6SA": {
+          "ini_value": "item_Name_SHLD_BEHR_S01_6SA",
+          "name": "6SA \"Arbiter\"",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_BEHR_S01_7SA": {
+          "ini_value": "item_Name_SHLD_BEHR_S01_7SA",
+          "name": "7SA \"Concord\"",
+          "size": "S1",
+          "grade": "A",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_BEHR_S02_6MA": {
+          "ini_value": "item_Name_SHLD_BEHR_S02_6MA",
+          "name": "6MA \"Kozane\"",
+          "size": "S2",
+          "grade": "B",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_BEHR_S02_7MA": {
+          "ini_value": "item_Name_SHLD_BEHR_S02_7MA",
+          "name": "7MA \"Lorica\"",
+          "size": "S2",
+          "grade": "A",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_BEHR_S03_6CA": {
+          "ini_value": "item_Name_SHLD_BEHR_S03_6CA",
+          "name": "6CA \"Bila\"",
+          "size": "S3",
+          "grade": "B",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_BEHR_S03_7CA": {
+          "ini_value": "item_Name_SHLD_BEHR_S03_7CA",
+          "name": "7CA \"Nargun\"",
+          "size": "S3",
+          "grade": "A",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_Controller": {
+          "ini_value": "item_Name_SHLD_Controller",
+          "name": "SHIELDS",
+          "size": "",
+          "grade": "",
+          "type": ""
+        },
+        "item_Name_SHLD_Default": {
+          "ini_value": "item_Name_SHLD_Default",
+          "name": "SHIELD GENERATOR",
+          "size": "",
+          "grade": "",
+          "type": ""
+        },
+        "item_Name_SHLD_GODI_S01_FR66": {
+          "ini_value": "item_Name_SHLD_GODI_S01_FR66",
+          "name": "FR-66",
+          "size": "S1",
+          "grade": "A",
+          "type": "Military Shield"
+        },
+        "item_Name_SHLD_GODI_S02_CoverAll": {
+          "ini_value": "item_Name_SHLD_GODI_S02_CoverAll",
+          "name": "CoverAll",
+          "size": "S2",
+          "grade": "B",
+          "type": "Military Shield"
+        },
+        "item_Name_SHLD_GODI_S02_FR76": {
+          "ini_value": "item_Name_SHLD_GODI_S02_FR76",
+          "name": "FR-76",
+          "size": "S2",
+          "grade": "A",
+          "type": "Military Shield"
+        },
+        "item_Name_SHLD_GODI_S02_SecureShield": {
+          "ini_value": "item_Name_SHLD_GODI_S02_SecureShield",
+          "name": "SecureShield",
+          "size": "S2",
+          "grade": "D",
+          "type": "Military Shield"
+        },
+        "item_Name_SHLD_GODI_S03_FR86": {
+          "ini_value": "item_Name_SHLD_GODI_S03_FR86",
+          "name": "FR-86",
+          "size": "S3",
+          "grade": "A",
+          "type": "Military Shield"
+        },
+        "item_Name_SHLD_GODI_S03_FullBlock": {
+          "ini_value": "item_Name_SHLD_GODI_S03_FullBlock",
+          "name": "FullBlock",
+          "size": "S3",
+          "grade": "B",
+          "type": "Military Shield"
+        },
+        "item_Name_SHLD_GODI_S03_SecureScreen": {
+          "ini_value": "item_Name_SHLD_GODI_S03_SecureScreen",
+          "name": "SecureScreen",
+          "size": "S3",
+          "grade": "D",
+          "type": "Military Shield"
+        },
+        "item_Name_SHLD_GODI_S03_SureStop": {
+          "ini_value": "item_Name_SHLD_GODI_S03_SureStop",
+          "name": "SureStop",
+          "size": "S3",
+          "grade": "C",
+          "type": "Military Shield"
+        },
+        "item_Name_SHLD_SECO_S00_LOC": {
+          "ini_value": "item_Name_SHLD_SECO_S00_LOC",
+          "name": "LOC",
+          "size": "S0",
+          "grade": "B",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_SECO_S00_RED": {
+          "ini_value": "item_Name_SHLD_SECO_S00_RED",
+          "name": "RED",
+          "size": "S0",
+          "grade": "D",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_SECO_S01_HEX": {
+          "ini_value": "item_Name_SHLD_SECO_S01_HEX",
+          "name": "HEX",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_SECO_S02_BLOC": {
+          "ini_value": "item_Name_SHLD_SECO_S02_BLOC",
+          "name": "BLOC",
+          "size": "S2",
+          "grade": "B",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_SECO_S02_RPEL": {
+          "ini_value": "item_Name_SHLD_SECO_S02_RPEL",
+          "name": "RPEL",
+          "size": "S2",
+          "grade": "D",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_SECO_S03_ARMOR": {
+          "ini_value": "item_Name_SHLD_SECO_S03_ARMOR",
+          "name": "ARMOR",
+          "size": "S3",
+          "grade": "B",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_SECO_S03_GUARD": {
+          "ini_value": "item_Name_SHLD_SECO_S03_GUARD",
+          "name": "GUARD",
+          "size": "S3",
+          "grade": "C",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_SECO_S03_HAVEN": {
+          "ini_value": "item_Name_SHLD_SECO_S03_HAVEN",
+          "name": "HAVEN",
+          "size": "S3",
+          "grade": "D",
+          "type": "Civilian Shield"
+        },
+        "item_Name_SHLD_VNCL_S01_Hide": {
+          "ini_value": "item_Name_SHLD_VNCL_S01_Hide",
+          "name": "Hide",
+          "size": "S1",
+          "grade": "",
+          "type": "Vanduul Shield"
+        },
+        "item_Name_SHLD_YORM_S01_Jaghte": {
+          "ini_value": "item_Name_SHLD_YORM_S01_Jaghte",
+          "name": "Jaghte",
+          "size": "S1",
+          "grade": "B",
+          "type": "Competition Shield"
+        },
+        "item_Name_SHLD_YORM_S02_Bamoty": {
+          "ini_value": "item_Name_SHLD_YORM_S02_Bamoty",
+          "name": "Bamoty",
+          "size": "S2",
+          "grade": "D",
+          "type": "Competition Shield"
+        },
+        "item_Name_SHLD_YORM_S02_Haltur": {
+          "ini_value": "item_Name_SHLD_YORM_S02_Haltur",
+          "name": "Haltur",
+          "size": "S2",
+          "grade": "B",
+          "type": "Competition Shield"
+        },
+        "item_Name_SHLD_YORM_S02_Trenta": {
+          "ini_value": "item_Name_SHLD_YORM_S02_Trenta",
+          "name": "Trenta",
+          "size": "S2",
+          "grade": "C",
+          "type": "Competition Shield"
+        }
+    },
+    "quantum_drives": {
+      "item_NameQDRV_ACAS_S02_SparkFire_SCItem": {
+        "ini_value": "item_NameQDRV_ACAS_S02_SparkFire_SCItem",
+        "name": "SparkFire",
+        "size": "S2",
+        "grade": "C",
+        "type": "Competition Quantum Drive"
+      },
+      "item_nameQDRV_WETK_S02_XL1_SCItem": {
+        "ini_value": "item_nameQDRV_WETK_S02_XL1_SCItem",
+        "name": "XL-1",
+        "size": "S2",
+        "grade": "A",
+        "type": "Military Quantum Drive"
+      },
+      "item_NameQDRV_ACAS_S02_SunFire_SCItem": {
+        "ini_value": "item_NameQDRV_ACAS_S02_SunFire_SCItem",
+        "name": "SunFire",
+        "size": "S2",
+        "grade": "B",
+        "type": "Competition Quantum Drive"
+      },
+      "item_NameQDRV_ARCC_S01_Flood_SCItem": {
+        "ini_value": "item_NameQDRV_ARCC_S01_Flood_SCItem",
+        "name": "Flood",
+        "size": "S1",
+        "grade": "D",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_ARCC_S01_Rush": {
+        "ini_value": "item_NameQDRV_ARCC_S01_Rush",
+        "name": "Rush",
+        "size": "S1",
+        "grade": "C",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_ARCC_S02_Cascade_SCItem": {
+        "ini_value": "item_NameQDRV_ARCC_S02_Cascade_SCItem",
+        "name": "Cascade",
+        "size": "S2",
+        "grade": "D",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_ARCC_S03_Echo": {
+        "ini_value": "item_NameQDRV_ARCC_S03_Echo",
+        "name": "Echo",
+        "size": "S3",
+        "grade": "D",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_ARCC_S03_Echo_SCItem": {
+        "ini_value": "item_NameQDRV_ARCC_S03_Echo_SCItem",
+        "name": "Echo",
+        "size": "S3",
+        "grade": "D",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_ARCC_S03_Fissure": {
+        "ini_value": "item_NameQDRV_ARCC_S03_Fissure",
+        "name": "Fissure",
+        "size": "S3",
+        "grade": "C",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_ARCC_S03_Fissure_SCItem": {
+        "ini_value": "item_NameQDRV_ARCC_S03_Fissure_SCItem",
+        "name": "Fissure",
+        "size": "S3",
+        "grade": "C",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_ARCC_S03_Impulse": {
+        "ini_value": "item_NameQDRV_ARCC_S03_Impulse",
+        "name": "Impulse",
+        "size": "S3",
+        "grade": "B",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_ARCC_S03_Impulse_SCItem": {
+        "ini_value": "item_NameQDRV_ARCC_S03_Impulse_SCItem",
+        "name": "Impulse",
+        "size": "S3",
+        "grade": "B",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_JUST_S01_Goliath": {
+        "ini_value": "item_NameQDRV_JUST_S01_Goliath",
+        "name": "Goliath",
+        "size": "S1",
+        "grade": "C",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_NameQDRV_JUST_S01_Vulcan_SCItem": {
+        "ini_value": "item_NameQDRV_JUST_S01_Vulcan_SCItem",
+        "name": "Vulcan",
+        "size": "S1",
+        "grade": "D",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_NameQDRV_JUST_S02_Bolon": {
+        "ini_value": "item_NameQDRV_JUST_S02_Bolon",
+        "name": "Bolon",
+        "size": "S2",
+        "grade": "C",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_NameQDRV_JUST_S02_Huracan_SCItem": {
+        "ini_value": "item_NameQDRV_JUST_S02_Huracan_SCItem",
+        "name": "Huracan",
+        "size": "S2",
+        "grade": "B",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_NameQDRV_JUST_S03_Agni": {
+        "ini_value": "item_NameQDRV_JUST_S03_Agni",
+        "name": "Agni",
+        "size": "S3",
+        "grade": "B",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_NameQDRV_JUST_S03_Agni_SCItem": {
+        "ini_value": "item_NameQDRV_JUST_S03_Agni_SCItem",
+        "name": "Agni",
+        "size": "S3",
+        "grade": "B",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_NameQDRV_JUST_S03_Kama": {
+        "ini_value": "item_NameQDRV_JUST_S03_Kama",
+        "name": "Kama",
+        "size": "S3",
+        "grade": "C",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_NameQDRV_JUST_S03_Vesta": {
+        "ini_value": "item_NameQDRV_JUST_S03_Vesta",
+        "name": "Vesta",
+        "size": "S3",
+        "grade": "D",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_NameQDRV_JUST_S03_Vesta_SCItem": {
+        "ini_value": "item_NameQDRV_JUST_S03_Vesta_SCItem",
+        "name": "Vesta",
+        "size": "S3",
+        "grade": "D",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_NameQDRV_ORIG_S04_890J_SCItem": {
+        "ini_value": "item_NameQDRV_ORIG_S04_890J_SCItem",
+        "name": "Allegro",
+        "size": "S4",
+        "grade": "A",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_RACO_S01_Drift": {
+        "ini_value": "item_NameQDRV_RACO_S01_Drift",
+        "name": "Drift",
+        "size": "S1",
+        "grade": "C",
+        "type": "Stealth Quantum Drive"
+      },
+      "item_NameQDRV_RACO_S01_Spectre_SCItem": {
+        "ini_value": "item_NameQDRV_RACO_S01_Spectre_SCItem",
+        "name": "Spectre",
+        "size": "S1",
+        "grade": "A",
+        "type": "Stealth Quantum Drive"
+      },
+      "item_NameQDRV_RACO_S02_Bolt_SCItem": {
+        "ini_value": "item_NameQDRV_RACO_S02_Bolt_SCItem",
+        "name": "Bolt",
+        "size": "S2",
+        "grade": "B",
+        "type": "Stealth Quantum Drive"
+      },
+      "item_NameQDRV_RACO_S02_Nova_SCItem": {
+        "ini_value": "item_NameQDRV_RACO_S02_Nova_SCItem",
+        "name": "Nova",
+        "size": "S2",
+        "grade": "C",
+        "type": "Stealth Quantum Drive"
+      },
+      "item_NameQDRV_RACO_S02_Spicule_SCItem": {
+        "ini_value": "item_NameQDRV_RACO_S02_Spicule_SCItem",
+        "name": "Spicule",
+        "size": "S2",
+        "grade": "A",
+        "type": "Stealth Quantum Drive"
+      },
+      "item_NameQDRV_RSI_S01_Eos": {
+        "ini_value": "item_NameQDRV_RSI_S01_Eos",
+        "name": "Eos",
+        "size": "S1",
+        "grade": "C",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_RSI_S01_Hyperion_SCItem": {
+        "ini_value": "item_NameQDRV_RSI_S01_Hyperion_SCItem",
+        "name": "Hyperion",
+        "size": "S1",
+        "grade": "B",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_RSI_S02_Aither_SCItem": {
+        "ini_value": "item_NameQDRV_RSI_S02_Aither_SCItem",
+        "name": "Aither",
+        "size": "S2",
+        "grade": "B",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_RSI_S03_Erebos": {
+        "ini_value": "item_NameQDRV_RSI_S03_Erebos",
+        "name": "Erebos",
+        "size": "S3",
+        "grade": "A",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_RSI_S03_Metis": {
+        "ini_value": "item_NameQDRV_RSI_S03_Metis",
+        "name": "Metis",
+        "size": "S3",
+        "grade": "C",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_RSI_S03_Tyche": {
+        "ini_value": "item_NameQDRV_RSI_S03_Tyche",
+        "name": "Tyche",
+        "size": "S3",
+        "grade": "B",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_TARS_S01_Expedition": {
+        "ini_value": "item_NameQDRV_TARS_S01_Expedition",
+        "name": "Expedition",
+        "size": "S1",
+        "grade": "C",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_TARS_S02_Odyssey": {
+        "ini_value": "item_NameQDRV_TARS_S02_Odyssey",
+        "name": "Odyssey",
+        "size": "S2",
+        "grade": "C",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_TARS_S03_Drifter": {
+        "ini_value": "item_NameQDRV_TARS_S03_Drifter",
+        "name": "Drifter",
+        "size": "S3",
+        "grade": "D",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_TARS_S03_Ranger": {
+        "ini_value": "item_NameQDRV_TARS_S03_Ranger",
+        "name": "Ranger",
+        "size": "S3",
+        "grade": "B",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_TARS_S03_Wanderer": {
+        "ini_value": "item_NameQDRV_TARS_S03_Wanderer",
+        "name": "Wanderer",
+        "size": "S3",
+        "grade": "C",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_NameQDRV_WETK_S01_Beacon": {
+        "ini_value": "item_NameQDRV_WETK_S01_Beacon",
+        "name": "Beacon",
+        "size": "S1",
+        "grade": "C",
+        "type": "Military Quantum Drive"
+      },
+      "item_NameQDRV_WETK_S01_Siren": {
+        "ini_value": "item_NameQDRV_WETK_S01_Siren",
+        "name": "Siren",
+        "size": "S1",
+        "grade": "B",
+        "type": "Military Quantum Drive"
+      },
+      "item_NameQDRV_WETK_S02_Crossfield": {
+        "ini_value": "item_NameQDRV_WETK_S02_Crossfield",
+        "name": "Crossfield",
+        "size": "S2",
+        "grade": "C",
+        "type": "Military Quantum Drive"
+      },
+      "item_NameQDRV_WETK_S03_Balandin": {
+        "ini_value": "item_NameQDRV_WETK_S03_Balandin",
+        "name": "Balandin",
+        "size": "S3",
+        "grade": "B",
+        "type": "Military Quantum Drive"
+      },
+      "item_NameQDRV_WETK_S03_Pontes": {
+        "ini_value": "item_NameQDRV_WETK_S03_Pontes",
+        "name": "Pontes",
+        "size": "S3",
+        "grade": "C",
+        "type": "Military Quantum Drive"
+      },
+      "item_NameQDRV_WETK_S03_TS2": {
+        "ini_value": "item_NameQDRV_WETK_S03_TS2",
+        "name": "TS-2",
+        "size": "S3",
+        "grade": "A",
+        "type": "Military Quantum Drive"
+      },
+      "item_Name_QDRV_ARCC_S01_Burst": {
+        "ini_value": "item_Name_QDRV_ARCC_S01_Burst",
+        "name": "Burst",
+        "size": "S1",
+        "grade": "B",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_Name_QDRV_ARCC_S02_Flash": {
+        "ini_value": "item_Name_QDRV_ARCC_S02_Flash",
+        "name": "Flash",
+        "size": "S2",
+        "grade": "B",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_Name_QDRV_ARCC_S02_Torrent": {
+        "ini_value": "item_Name_QDRV_ARCC_S02_Torrent",
+        "name": "Torrent",
+        "size": "S2",
+        "grade": "C",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_Name_QDRV_JUST_S01_Colossus": {
+        "ini_value": "item_Name_QDRV_JUST_S01_Colossus",
+        "name": "Colossus",
+        "size": "S1",
+        "grade": "B",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_Name_QDRV_JUST_S02_Yaluk": {
+        "ini_value": "item_Name_QDRV_JUST_S02_Yaluk",
+        "name": "Yaluk",
+        "size": "S2",
+        "grade": "D",
+        "type": "Industrial Quantum Drive"
+      },
+      "item_Name_QDRV_RACO_S01_Zephyr": {
+        "ini_value": "item_Name_QDRV_RACO_S01_Zephyr",
+        "name": "Zephyr",
+        "size": "S1",
+        "grade": "B",
+        "type": "Stealth Quantum Drive"
+      },
+      "item_Name_QDRV_RSI_S01_Atlas": {
+        "ini_value": "item_Name_QDRV_RSI_S01_Atlas",
+        "name": "Atlas",
+        "size": "S1",
+        "grade": "A",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_Name_QDRV_RSI_S02_Hemera": {
+        "ini_value": "item_Name_QDRV_RSI_S02_Hemera",
+        "name": "Hemera",
+        "size": "S2",
+        "grade": "A",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_Name_QDRV_TARS_S01_Voyage": {
+        "ini_value": "item_Name_QDRV_TARS_S01_Voyage",
+        "name": "Voyage",
+        "size": "S1",
+        "grade": "B",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_Name_QDRV_TARS_S02_Sojourn": {
+        "ini_value": "item_Name_QDRV_TARS_S02_Sojourn",
+        "name": "Sojourn",
+        "size": "S2",
+        "grade": "B",
+        "type": "Civilian Quantum Drive"
+      },
+      "item_Name_QDRV_WETK_S01_Beacon": {
+        "ini_value": "item_Name_QDRV_WETK_S01_Beacon",
+        "name": "Beacon",
+        "size": "S1",
+        "grade": "C",
+        "type": "Military Quantum Drive"
+      },
+      "item_Name_QDRV_WETK_S01_VK00": {
+        "ini_value": "item_Name_QDRV_WETK_S01_VK00",
+        "name": "VK-00",
+        "size": "S1",
+        "grade": "A",
+        "type": "Military Quantum Drive"
+      },
+      "item_Name_QDRV_WETK_S02_Yeager": {
+        "ini_value": "item_Name_QDRV_WETK_S02_Yeager",
+        "name": "Yeager",
+        "size": "S2",
+        "grade": "B",
+        "type": "Military Quantum Drive"
+      },
+      "item_Name_QRDV_ACAS_S01_Foxfire": {
+        "ini_value": "item_Name_QRDV_ACAS_S01_Foxfire",
+        "name": "FoxFire",
+        "size": "S1",
+        "grade": "B",
+        "type": "Competition Quantum Drive"
+      },
+      "item_Name_QRDV_ACAS_S01_LightFire": {
+        "ini_value": "item_Name_QRDV_ACAS_S01_LightFire",
+        "name": "LightFire",
+        "size": "S1",
+        "grade": "C",
+        "type": "Competition Quantum Drive"
+      }
+    },
+    "coolers": {
+        "item_NameCOOL_ACOM_S01_IcePlunge": {
+          "ini_value": "item_NameCOOL_ACOM_S01_IcePlunge",
+          "name": "IcePlunge",
+          "size": "S1",
+          "grade": "C",
+          "type": "Competition Cooler"
+        },
+        "item_NameCOOL_ACOM_S01_QuickCool": {
+          "ini_value": "item_NameCOOL_ACOM_S01_QuickCool",
+          "name": "QuikCool",
+          "size": "S1",
+          "grade": "D",
+          "type": "Competition Cooler"
+        },
+        "item_NameCOOL_ACOM_S02_AbsoluteZero_SCItem": {
+          "ini_value": "item_NameCOOL_ACOM_S02_AbsoluteZero_SCItem",
+          "name": "AbsoluteZero",
+          "size": "S2",
+          "grade": "B",
+          "type": "Competition Cooler"
+        },
+        "item_NameCOOL_ACOM_S02_IceDive_SCItem": {
+          "ini_value": "item_NameCOOL_ACOM_S02_IceDive_SCItem",
+          "name": "IceDive",
+          "size": "S2",
+          "grade": "C",
+          "type": "Competition Cooler"
+        },
+        "item_NameCOOL_ACOM_S02_RapidCool_SCItem": {
+          "ini_value": "item_NameCOOL_ACOM_S02_RapidCool_SCItem",
+          "name": "RapidCool",
+          "size": "S2",
+          "grade": "D",
+          "type": "Competition Cooler"
+        },
+        "item_NameCOOL_AEGS_S01_Bracer": {
+          "ini_value": "item_NameCOOL_AEGS_S01_Bracer",
+          "name": "Bracer",
+          "size": "S1",
+          "grade": "C",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_AEGS_S01_Bracer_SCItem": {
+          "ini_value": "item_NameCOOL_AEGS_S01_Bracer_SCItem",
+          "name": "Bracer",
+          "size": "S1",
+          "grade": "C",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_AEGS_S01_Glacier_SCItem": {
+          "ini_value": "item_NameCOOL_AEGS_S01_Glacier_SCItem",
+          "name": "Glacier",
+          "size": "S1",
+          "grade": "A",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_AEGS_S01_Polar": {
+          "ini_value": "item_NameCOOL_AEGS_S01_Polar",
+          "name": "Polar",
+          "size": "S1",
+          "grade": "B",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_AEGS_S01_Tundra": {
+          "ini_value": "item_NameCOOL_AEGS_S01_Tundra",
+          "name": "Tundra",
+          "size": "S1",
+          "grade": "D",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_AEGS_S02_Arctic": {
+          "ini_value": "item_NameCOOL_AEGS_S02_Arctic",
+          "name": "Arctic",
+          "size": "S2",
+          "grade": "C",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_AEGS_S02_Boreal": {
+          "ini_value": "item_NameCOOL_AEGS_S02_Boreal",
+          "name": "Boreal",
+          "size": "S2",
+          "grade": "D",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_AEGS_S03_Blizzard_SCItem": {
+          "ini_value": "item_NameCOOL_AEGS_S03_Blizzard_SCItem",
+          "name": "Blizzard",
+          "size": "S3",
+          "grade": "A",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_AEGS_S03_Galinstan_SCItem": {
+          "ini_value": "item_NameCOOL_AEGS_S03_Galinstan_SCItem",
+          "name": "Galinstan",
+          "size": "S3",
+          "grade": "D",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_AEGS_S03_Mercury": {
+          "ini_value": "item_NameCOOL_AEGS_S03_Mercury",
+          "name": "Mercury",
+          "size": "S3",
+          "grade": "C",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_AEGS_S04_Reclaimer": {
+          "ini_value": "item_NameCOOL_AEGS_S04_Reclaimer",
+          "name": "Algid",
+          "size": "S4",
+          "grade": "C",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_AEGS_S04_Tundra": {
+          "ini_value": "item_NameCOOL_AEGS_S04_Tundra",
+          "name": "Tundra",
+          "size": "S1",
+          "grade": "D",
+          "type": "Military Cooler"
+        },
+        "item_NameCOOL_JSPN_S00_FrostStarSL": {
+          "ini_value": "item_NameCOOL_JSPN_S00_FrostStarSL",
+          "name": "Frost-Star SL",
+          "size": "S0",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_JSPN_S00_WinterStarSL_SCItem": {
+          "ini_value": "item_NameCOOL_JSPN_S00_WinterStarSL_SCItem",
+          "name": "Winter-Star SL",
+          "size": "S0",
+          "grade": "D",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_JSPN_S01_CryoStar": {
+          "ini_value": "item_NameCOOL_JSPN_S01_CryoStar",
+          "name": "Cryo-Star",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_JSPN_S01_FrostStar": {
+          "ini_value": "item_NameCOOL_JSPN_S01_FrostStar",
+          "name": "Frost-Star",
+          "size": "S1",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_JSPN_S01_WinterStar": {
+          "ini_value": "item_NameCOOL_JSPN_S01_WinterStar",
+          "name": "Winter-Star",
+          "size": "S1",
+          "grade": "D",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_JSPN_S02_CryoStarEX": {
+          "ini_value": "item_NameCOOL_JSPN_S02_CryoStarEX",
+          "name": "Cryo-Star EX",
+          "size": "S2",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_JSPN_S02_FrostStarEX": {
+          "ini_value": "item_NameCOOL_JSPN_S02_FrostStarEX",
+          "name": "Frost-Star EX",
+          "size": "S2",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_JSPN_S02_WinterStarEX_SCItem": {
+          "ini_value": "item_NameCOOL_JSPN_S02_WinterStarEX_SCItem",
+          "name": "Winter-Star EX",
+          "size": "S2",
+          "grade": "D",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_JSPN_S03_FrostStarXL_SCItem": {
+          "ini_value": "item_NameCOOL_JSPN_S03_FrostStarXL_SCItem",
+          "name": "Frost-Star XL",
+          "size": "S3",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_JSPN_S03_WinterStarXL_SCItem": {
+          "ini_value": "item_NameCOOL_JSPN_S03_WinterStarXL_SCItem",
+          "name": "Winter-Star XL",
+          "size": "S3",
+          "grade": "D",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_JUST_S01_EcoFlow": {
+          "ini_value": "item_NameCOOL_JUST_S01_EcoFlow",
+          "name": "EcoFlow",
+          "size": "S1",
+          "grade": "B",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_JUST_S01_Hydrocel": {
+          "ini_value": "item_NameCOOL_JUST_S01_Hydrocel",
+          "name": "Hydrocel",
+          "size": "S1",
+          "grade": "D",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_JUST_S01_Thermax": {
+          "ini_value": "item_NameCOOL_JUST_S01_Thermax",
+          "name": "Thermax",
+          "size": "S1",
+          "grade": "C",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_JUST_S02_CoolCore": {
+          "ini_value": "item_NameCOOL_JUST_S02_CoolCore",
+          "name": "CoolCore",
+          "size": "S2",
+          "grade": "C",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_JUST_S02_Hydrojet": {
+          "ini_value": "item_NameCOOL_JUST_S02_Hydrojet",
+          "name": "HydroJet",
+          "size": "S2",
+          "grade": "D",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_JUST_S02_Snowfall": {
+          "ini_value": "item_NameCOOL_JUST_S02_Snowfall",
+          "name": "Snowfall",
+          "size": "S2",
+          "grade": "B",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_JUST_S02_Snowpack_SCItem": {
+          "ini_value": "item_NameCOOL_JUST_S02_Snowpack_SCItem",
+          "name": "Snowpack",
+          "size": "S2",
+          "grade": "A",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_JUST_S03_ChillMax_SCItem": {
+          "ini_value": "item_NameCOOL_JUST_S03_ChillMax_SCItem",
+          "name": "Chill-Max",
+          "size": "S3",
+          "grade": "A",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_JUST_S03_Hydropulse_SCItem": {
+          "ini_value": "item_NameCOOL_JUST_S03_Hydropulse_SCItem",
+          "name": "Hydropulse",
+          "size": "S3",
+          "grade": "D",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_JUST_S03_ThermalCore": {
+          "ini_value": "item_NameCOOL_JUST_S03_ThermalCore",
+          "name": "ThermalCore",
+          "size": "S3",
+          "grade": "C",
+          "type": "Industrial Cooler"
+        },
+        "item_NameCOOL_LPLT_S01_ArcticStorm": {
+          "ini_value": "item_NameCOOL_LPLT_S01_ArcticStorm",
+          "name": "ArcticStorm",
+          "size": "S1",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_LPLT_S01_BlastChill": {
+          "ini_value": "item_NameCOOL_LPLT_S01_BlastChill",
+          "name": "BlastChill",
+          "size": "S1",
+          "grade": "D",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_LPLT_S01_FlashFreeze": {
+          "ini_value": "item_NameCOOL_LPLT_S01_FlashFreeze",
+          "name": "FlashFreeze",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_LPLT_S02_ColdSnap": {
+          "ini_value": "item_NameCOOL_LPLT_S02_ColdSnap",
+          "name": "ColdSnap",
+          "size": "S2",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_LPLT_S03_ColdSurge_SCItem": {
+          "ini_value": "item_NameCOOL_LPLT_S03_ColdSurge_SCItem",
+          "name": "ColdSurge",
+          "size": "S3",
+          "grade": "D",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_LPLT_S03_FrostBurn": {
+          "ini_value": "item_NameCOOL_LPLT_S03_FrostBurn",
+          "name": "FrostBurn",
+          "size": "S3",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_ORIG_S04_890J_SCItem": {
+          "ini_value": "item_NameCOOL_ORIG_S04_890J_SCItem",
+          "name": "Serac",
+          "size": "S4",
+          "grade": "A",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_TYDT_S01_HeatSafe": {
+          "ini_value": "item_NameCOOL_TYDT_S01_HeatSafe",
+          "name": "HeatSafe",
+          "size": "S1",
+          "grade": "C",
+          "type": "Stealth Cooler"
+        },
+        "item_NameCOOL_TYDT_S01_VaporBlock": {
+          "ini_value": "item_NameCOOL_TYDT_S01_VaporBlock",
+          "name": "VaporBlock",
+          "size": "S1",
+          "grade": "B",
+          "type": "Stealth Cooler"
+        },
+        "item_NameCOOL_TYDT_S02_HeatSink_SCItem": {
+          "ini_value": "item_NameCOOL_TYDT_S02_HeatSink_SCItem",
+          "name": "HeatSink",
+          "size": "S2",
+          "grade": "C",
+          "type": "Stealth Cooler"
+        },
+        "item_NameCOOL_TYDT_S02_IceBox_SCItem": {
+          "ini_value": "item_NameCOOL_TYDT_S02_IceBox_SCItem",
+          "name": "IceBox",
+          "size": "S2",
+          "grade": "B",
+          "type": "Stealth Cooler"
+        },
+        "item_NameCOOL_TYDT_S02_NightFall_SCItem": {
+          "ini_value": "item_NameCOOL_TYDT_S02_NightFall_SCItem",
+          "name": "NightFall",
+          "size": "S2",
+          "grade": "A",
+          "type": "Stealth Cooler"
+        },
+        "item_NameCOOL_V01_CIV_WCPR_Tepilo": {
+          "ini_value": "item_NameCOOL_V01_CIV_WCPR_Tepilo",
+          "name": "WCPR-Made XIAN Nox Cooler Name [PH]",
+          "size": "",
+          "grade": "",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_VNCL_S01_Blade": {
+          "ini_value": "item_NameCOOL_VNCL_S01_Blade",
+          "name": "Vanduul Blade Cooler",
+          "size": "S1",
+          "grade": "",
+          "type": "Vanduul Cooler"
+        },
+        "item_NameCOOL_VNCL_S01_Cold": {
+          "ini_value": "item_NameCOOL_VNCL_S01_Cold",
+          "name": "Vanduul Cold Cooler",
+          "size": "S1",
+          "grade": "",
+          "type": "Vanduul Cooler"
+        },
+        "item_NameCOOL_VNCL_S01_Stinger": {
+          "ini_value": "item_NameCOOL_VNCL_S01_Stinger",
+          "name": "Vanduul Stinger Cooler",
+          "size": "S1",
+          "grade": "",
+          "type": "Vanduul Cooler"
+        },
+        "item_NameCOOL_VNCL_S01_Void": {
+          "ini_value": "item_NameCOOL_VNCL_S01_Void",
+          "name": "Vanduul Void Cooler",
+          "size": "S1",
+          "grade": "",
+          "type": "Vanduul Cooler"
+        },
+        "item_NameCOOL_WCPR_S00_Fridan": {
+          "ini_value": "item_NameCOOL_WCPR_S00_Fridan",
+          "name": "Fridan",
+          "size": "S0",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_WCPR_S00_Tepilo_SCItem": {
+          "ini_value": "item_NameCOOL_WCPR_S00_Tepilo_SCItem",
+          "name": "Tepilo",
+          "size": "S0",
+          "grade": "A",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_WCPR_S01_Berian": {
+          "ini_value": "item_NameCOOL_WCPR_S01_Berian",
+          "name": "Berian",
+          "size": "S1",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_WCPR_S01_Endo": {
+          "ini_value": "item_NameCOOL_WCPR_S01_Endo",
+          "name": "Endo",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_WCPR_S02_Graupel": {
+          "ini_value": "item_NameCOOL_WCPR_S02_Graupel",
+          "name": "Graupel",
+          "size": "S2",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_WCPR_S02_Taiga_SCItem": {
+          "ini_value": "item_NameCOOL_WCPR_S02_Taiga_SCItem",
+          "name": "Taiga",
+          "size": "S2",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_WCPR_S03_Draug_SCItem": {
+          "ini_value": "item_NameCOOL_WCPR_S03_Draug_SCItem",
+          "name": "Draug",
+          "size": "S3",
+          "grade": "A",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_WCPR_S03_Elsen_SCItem": {
+          "ini_value": "item_NameCOOL_WCPR_S03_Elsen_SCItem",
+          "name": "Elsen",
+          "size": "S3",
+          "grade": "A",
+          "type": "Civilian Cooler"
+        },
+        "item_NameCOOL_WCPR_S03_Kragen_SCItem": {
+          "ini_value": "item_NameCOOL_WCPR_S03_Kragen_SCItem",
+          "name": "Kragen",
+          "size": "S3",
+          "grade": "A",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_ACOM_S01_ZeroRush": {
+          "ini_value": "item_Name_COOL_ACOM_S01_ZeroRush",
+          "name": "ZeroRush",
+          "size": "S1",
+          "grade": "B",
+          "type": "Competition Cooler"
+        },
+        "item_Name_COOL_AEGS_S01_Glacier": {
+          "ini_value": "item_Name_COOL_AEGS_S01_Glacier",
+          "name": "Glacier",
+          "size": "S1",
+          "grade": "A",
+          "type": "Military Cooler"
+        },
+        "item_Name_COOL_AEGS_S01_Tundra": {
+          "ini_value": "item_Name_COOL_AEGS_S01_Tundra",
+          "name": "Tundra",
+          "size": "S1",
+          "grade": "D",
+          "type": "Military Cooler"
+        },
+        "item_Name_COOL_AEGS_S02_Avalanche": {
+          "ini_value": "item_Name_COOL_AEGS_S02_Avalanche",
+          "name": "Avalanche",
+          "size": "S2",
+          "grade": "A",
+          "type": "Military Cooler"
+        },
+        "item_Name_COOL_AEGS_S02_Boreal": {
+          "ini_value": "item_Name_COOL_AEGS_S02_Boreal",
+          "name": "Boreal",
+          "size": "S2",
+          "grade": "D",
+          "type": "Military Cooler"
+        },
+        "item_Name_COOL_AEGS_S02_Permafrost": {
+          "ini_value": "item_Name_COOL_AEGS_S02_Permafrost",
+          "name": "Permafrost",
+          "size": "S2",
+          "grade": "B",
+          "type": "Military Cooler"
+        },
+        "item_Name_COOL_AEGS_S03_Tempest": {
+          "ini_value": "item_Name_COOL_AEGS_S03_Tempest",
+          "name": "Tempest",
+          "size": "S3",
+          "grade": "B",
+          "type": "Military Cooler"
+        },
+        "item_Name_COOL_Controller": {
+          "ini_value": "item_Name_COOL_Controller",
+          "name": "THERMIC",
+          "size": "",
+          "grade": "",
+          "type": ""
+        },
+        "item_Name_COOL_Default": {
+          "ini_value": "item_Name_COOL_Default",
+          "name": "COOLER",
+          "size": "",
+          "grade": "",
+          "type": ""
+        },
+        "item_Name_COOL_JSPN_S00_CryoStarSL": {
+          "ini_value": "item_Name_COOL_JSPN_S00_CryoStarSL",
+          "name": "Cryo-Star SL",
+          "size": "S0",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_JSPN_S01_CryoStar": {
+          "ini_value": "item_Name_COOL_JSPN_S01_CryoStar",
+          "name": "Cryo-Star",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_JSPN_S02_CryoStarEX": {
+          "ini_value": "item_Name_COOL_JSPN_S02_CryoStarEX",
+          "name": "Cryo-Star EX",
+          "size": "S2",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_JSPN_S03_CryoStarXL": {
+          "ini_value": "item_Name_COOL_JSPN_S03_CryoStarXL",
+          "name": "Cryo-Star XL",
+          "size": "S3",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_JUST_S01_EcoFlow": {
+          "ini_value": "item_Name_COOL_JUST_S01_EcoFlow",
+          "name": "Eco-Flow",
+          "size": "S1",
+          "grade": "B",
+          "type": "Industrial Cooler"
+        },
+        "item_Name_COOL_JUST_S01_UltraFlow": {
+          "ini_value": "item_Name_COOL_JUST_S01_UltraFlow",
+          "name": "Ultra-Flow",
+          "size": "S1",
+          "grade": "A",
+          "type": "Industrial Cooler"
+        },
+        "item_Name_COOL_JUST_S02_Snowfall": {
+          "ini_value": "item_Name_COOL_JUST_S02_Snowfall",
+          "name": "Snowfall",
+          "size": "S2",
+          "grade": "B",
+          "type": "Industrial Cooler"
+        },
+        "item_Name_COOL_JUST_S03_IceFlush": {
+          "ini_value": "item_Name_COOL_JUST_S03_IceFlush",
+          "name": "Ice-Flush",
+          "size": "S3",
+          "grade": "B",
+          "type": "Industrial Cooler"
+        },
+        "item_Name_COOL_LPLT_S01_FlashFreeze": {
+          "ini_value": "item_Name_COOL_LPLT_S01_FlashFreeze",
+          "name": "FlashFreeze",
+          "size": "S1",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_LPLT_S02_FullFrost": {
+          "ini_value": "item_Name_COOL_LPLT_S02_FullFrost",
+          "name": "FullFrost",
+          "size": "S2",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_LPLT_S02_WhiteOut": {
+          "ini_value": "item_Name_COOL_LPLT_S02_WhiteOut",
+          "name": "WhiteOut",
+          "size": "S2",
+          "grade": "D",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_LPLT_S03_FrostBite": {
+          "ini_value": "item_Name_COOL_LPLT_S03_FrostBite",
+          "name": "FrostBite",
+          "size": "S3",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_TYDT_S01_SnowBlind": {
+          "ini_value": "item_Name_COOL_TYDT_S01_SnowBlind",
+          "name": "SnowBlind",
+          "size": "S1",
+          "grade": "A",
+          "type": "Stealth Cooler"
+        },
+        "item_Name_COOL_VNCL_S01_Cold": {
+          "ini_value": "item_Name_COOL_VNCL_S01_Cold",
+          "name": "Cold",
+          "size": "S1",
+          "grade": "",
+          "type": "Vanduul Cooler"
+        },
+        "item_Name_COOL_WCPR_S00_Kelvid": {
+          "ini_value": "item_Name_COOL_WCPR_S00_Kelvid",
+          "name": "Kelvid",
+          "size": "S0",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_WCPR_S01_Gelid": {
+          "ini_value": "item_Name_COOL_WCPR_S01_Gelid",
+          "name": "Gelid",
+          "size": "S1",
+          "grade": "A",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_WCPR_S02_Graupel": {
+          "ini_value": "item_Name_COOL_WCPR_S02_Graupel",
+          "name": "Graupel",
+          "size": "S2",
+          "grade": "C",
+          "type": "Civilian Cooler"
+        },
+        "item_Name_COOL_WCPR_S02_Taiga": {
+          "ini_value": "item_Name_COOL_WCPR_S02_Taiga",
+          "name": "Taiga",
+          "size": "S2",
+          "grade": "B",
+          "type": "Civilian Cooler"
+        }
+      }
+  }
