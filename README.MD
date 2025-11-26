@@ -44,6 +44,15 @@ You can customize the script by modifying these variables in the `AutoAddInfo` c
 - `json_file`: Path to your components JSON file
 - `game_path`: Path to your Star Citizen installation
 
+## InGame
+
+The changes will be visible everywhere, where the name of the component is shown, including:
+- Ship Scans
+- Shopping Menus
+- Tractor Beams
+
+Instead of `TS-2`, you will see `TS-2 (S3 Grade A Military Quantum Drive)`.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
